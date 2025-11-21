@@ -63,6 +63,7 @@ Comenzamos con la comprensión de los conceptos fundamentales de programación y
 
 - [Curso: Programación Básica de Platzi](https://platzi.com/cursos/programacion-basica/)
 - [Curso: Lógica de Programación Desde Cero de Brais Moure](https://www.youtube.com/watch?v=TdITcVD64zI)
+- [Video: Lógica de Programación de Sergie Code](https://youtu.be/tIS-1PmHAkE?si=eNRjY8YTA-d5Dime)
 - [Videos: Introducción a los Algoritmos y la Programación de TodoCode](https://www.youtube.com/playlist?list=PLQxX2eiEaqbzRVxjkstjLmmn9enb0x3zi)
 - [Videos: Ejercicios de Pseudocódigo de TodoCode](https://www.youtube.com/playlist?list=PLQxX2eiEaqbwHMRObsvtRSb6sA43msUJt)
 - [Videos: Linea de Comandos de Datademia](https://www.youtube.com/playlist?list=PLlhVpWerA0KzfxmP5CRFvmnEkRFldCUqI)
@@ -74,6 +75,7 @@ Comenzamos con la comprensión de los conceptos fundamentales de programación y
 Recomiendo iniciar con Python debido a su curva de aprendizaje amigable y su prevalencia en la industria actual. No obstante, es importante destacar que el procesamiento de datos también puede realizarse con R, Java, Scala, Julia, entre otros.
 
 - [Videos: Python desde 0 de PildorasInformáticas](https://www.youtube.com/playlist?list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS)
+- [Video: Python desde cero por Sergie Code](https://youtu.be/_uPVSW0cF6c?si=ALUiSEcjB-PmqxA8)
 - [Curso: Computación científica con Python de FreeCodeCamp](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
 - [Curso: Álgebra universitaria con Python de FreeCodeCamp](https://www.freecodecamp.org/learn/college-algebra-with-python/)
 - [Curso: Harvard CS50’s Introducción a la programación con Python subtítulado de FreeCodeCamp](https://www.youtube.com/watch?v=nLRL_NcnK-4&ab_channel=freeCodeCamp.org)
@@ -95,6 +97,7 @@ Recomiendo iniciar con Python debido a su curva de aprendizaje amigable y su pre
 El aprendizaje sobre el control de versiones no solo es valioso al trabajar en equipos, sino que también nos proporciona la capacidad de rastrear, comprender y gestionar los cambios realizados en nuestro proyecto y así mantener un desarrollo eficiente y colaborativo.
 
 - [Video: ¿Qué es el control de versiones y porque es tan importante para programar? de Datademia](https://www.youtube.com/watch?v=8HSjmgeJxqg&ab_channel=Datademia)
+- [Video: Git y Github desde cero por Sergie Code](https://youtu.be/7ylE8cm3mb0?si=5V57zlHHbKeOEwox)
 - [Curso: Git y Github de MoureDev](https://www.youtube.com/watch?v=3GymExBkKjE&ab_channel=MoureDevbyBraisMoure)
 - [Videos: Git y Github de TodoCode](https://www.youtube.com/playlist?list=PLQxX2eiEaqby-qh4raiKfYyb4T7WyHsfW)
 - [Lectura: Usa Git correctamente de Attlasian](https://www.atlassian.com/es/git)
@@ -122,6 +125,7 @@ En esta instancia toca aprender sobre las bases de datos. La elección del gesto
 
 También aprenderás SQL, un lenguaje de consulta para gestionar y manipular las bases de datos relacionales.
 - [Videos: SQL de Data Engineering LATAM](https://www.youtube.com/playlist?list=PLdxuOh58KNA6ybDbpk4pmk5BCxluqz5cS)
+- [Video: SQL desde cero por Sergie Code](https://youtu.be/Fca_kWJJXvo?si=pUNMFf75B2-3ct89)
 - [Intro to SQL de Kaggle](https://www.kaggle.com/learn/intro-to-sql)
 - [Advanced SQL de Kaggle](https://www.kaggle.com/learn/advanced-sql)
 
